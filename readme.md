@@ -28,7 +28,7 @@ Link to test the deployed app: https://pdf-chat-app-joppj72oz2tfnlxsuiqmj5.strea
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/arnavgupta16/pdf-chat-app
+git clone https://github.com/AayushBhardwaj7/pdf-chat-app
 cd pdf-chat-app
 ```
 
