@@ -353,7 +353,7 @@ def initialize_session_state():
     if 'chat_history' not in st.session_state:
         st.session_state.chat_history = []
 
-def main():
+def main():                                        #streamlit_code
     """Main application function"""
     st.set_page_config(page_title="PDF Chat App", page_icon="📚", layout="wide")
     st.title("📚 PDF Chat Application")
